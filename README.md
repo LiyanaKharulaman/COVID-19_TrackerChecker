@@ -2,7 +2,7 @@
 
 Introduction
 ============
-COVID-19 third wave has hit Malaysia harder than the first and the second. 2020 Sabah State Election is believed to be one of the factors causing a sudden spike in daily new cases in every state. Ministry of Health (MoH) has been actively updating the healthcare facilities for screening and treatment. It is an ongoing battle, however, the only way to move is forward.
+COVID-19 third wave has hit Malaysia harder than the first and the second. 2020 Sabah State Election is believed to be one of the factors causing a sudden spike in daily new cases in every state. Ministry of Health (MoH) has been actively updating the healthcare facilities for those who are seeking screening and treatment. It is an ongoing battle, however, the only way to move is forward.
 
 Questions (or Problems)
 =======================
