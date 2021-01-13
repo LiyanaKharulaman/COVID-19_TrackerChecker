@@ -28,3 +28,10 @@ Data Science Process
 
 **Data Exploration (EDA)**
 - Number of active cases filtered by state and district for a given date from 26th Sept 2020 – 30th Nov 2020.
+
+References
+==========
+- Leaflet tutorials: https://rstudio.github.io/leaflet/shiny.html
+- Shiny Dashboard tutorials: https://rstudio.github.io/shinydashboard/get_started.html
+- ShinyThemes: https://rstudio.github.io/shinythemes/
+- ShinyApps Icon: https://fontawesome.com/v4.7.0/icons/
